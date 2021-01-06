@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5qkk3ftXnqK_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Interaktives_3D_Modell</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Interaktives_3D_Modell_ORG">
+    <organization identifier="Interaktives_3D_Modell_ORG">
+      <title>Interaktives_3D_Modell</title>
+      <item identifier="Interaktives_3D_Modell_SCO" isvisible="true" identifierref="__5qkk3ftXnqK_course_id_RES">
+        <title>Interaktives_3D_Modell</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5qkk3ftXnqK_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6b7kBMUEK5Z_80_DX4094_DY4094_CX2047_CY1297.png" />
+      <file href="mobile/6KKQnpi42Q0_80_DX460_DY460_CX344_CY172.png" />
+      <file href="story_content/video_6Emaf4QV67Z_22_48_1704x1080.mp4" />
+      <file href="mobile/poster_6Zw56274cQ4_video_6Emaf4QV67Z_22_48_1704x1080.jpg" />
+      <file href="story_content/video_6K9nGWbb3Yr_22_48_1704x1080.mp4" />
+      <file href="mobile/poster_6mqzKNL1uFq_video_6K9nGWbb3Yr_22_48_1704x1080.jpg" />
+      <file href="story_content/video_5jHByCpPJlQ_22_48_1704x1080.mp4" />
+      <file href="mobile/poster_6dJpt3NW2s3_video_5jHByCpPJlQ_22_48_1704x1080.jpg" />
+      <file href="story_content/video_5ullpSjGnin_22_48_1704x1080.mp4" />
+      <file href="mobile/poster_5Z91DxMswfJ_video_5ullpSjGnin_22_48_1704x1080.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_6O8sCB8lPbi.png" />
+      <file href="mobile/txt__default_6q5piT0yX9G.png" />
+      <file href="mobile/txt__default_5ZkBvCmAYEh.png" />
+      <file href="mobile/txt__default_5tiXODpW1O4.png" />
+      <file href="mobile/txt__default_6KvorKGMoeZ.png" />
+      <file href="mobile/txt__default_5rvrYrFIjN0.png" />
+      <file href="mobile/txt__default_62l4Npq52cB.png" />
+      <file href="mobile/txt__default_5XwTHZgZEgp.png" />
+      <file href="mobile/txt__default_6FTEypallon.png" />
+      <file href="mobile/txt__default_5dBxV0UIVa1.png" />
+      <file href="mobile/txt__default_6URLbkOzEpT.png" />
+      <file href="mobile/txt__default_5z0MHeqDDmV.png" />
+      <file href="mobile/txt__default_5XPBoMAoJi2.png" />
+      <file href="mobile/txt__default_5XxpAlf5YaA.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/65YUI4mabpz.js" />
+      <file href="html5/data/js/6qgydDPE6Z6.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
